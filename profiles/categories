@@ -1,0 +1,5 @@
+cross-alpha-rock64-linux-gnu
+cross-aarch64-rock64-linux-gnu
+cross-ls
+cross-arm-rasbperrypi-linux-gnu
+cross-armv7a-rasbperrypi-linux-gnueabihf
